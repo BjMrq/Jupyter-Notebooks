@@ -1,0 +1,6 @@
+*.json
+*.env
+*.gitattributes
+*.pickle
+*.ipynb_checkpoints
+*.csv
